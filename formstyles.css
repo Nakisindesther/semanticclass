@@ -1,0 +1,50 @@
+body{
+    width: 70%;
+    background-color: grey;
+}
+main{
+    width: 80%;
+    background-color: burlywood;;
+    margin: auto;
+    padding: 30px;
+    
+}
+form{
+    width: 80%;
+    margin: auto;
+    font-size: 30px;
+}
+form > label{
+    display: block;
+    margin-top: 10px;
+}
+form > button>{
+    display: block;
+    margin-top: 30px;
+    width: 60%;
+    height: 40%;
+    margin: auto;
+    font-size: 30px;
+    margin-left: 10px;
+}
+form > fieldset>input{
+    width: 60%;
+    height: 20px;
+    font-size: 30px;
+    margin-left: 50px;
+
+}
+form > input{
+    width: 60%;
+    height: 20px;
+    font-size: 30px;
+    margin-left: 50px;
+
+}
+form>select{
+    width: 40%;
+    height: 35px;
+    font-size: 30px;
+    margin-left: 50px;
+
+}
