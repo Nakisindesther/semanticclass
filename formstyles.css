@@ -1,6 +1,7 @@
 body{
     width: 70%;
     background-color: grey;
+    color: red;
 }
 main{
     width: 80%;
@@ -32,6 +33,7 @@ form > fieldset>input{
     height: 20px;
     font-size: 30px;
     margin-left: 50px;
+    color: red;
 
 }
 form > input{
@@ -39,6 +41,7 @@ form > input{
     height: 20px;
     font-size: 30px;
     margin-left: 50px;
+    color: red;
 
 }
 form>select{
